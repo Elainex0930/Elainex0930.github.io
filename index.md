@@ -16,7 +16,7 @@ I have worked on hydrodynamic pipeflow, magnetohydrodynamics(MHD), and natural r
 If you are interested in any aspect of me, I am always open to discussions and collaborations. I would like you reach out to me by 
 email (elainexing0930@gmail.com). 
 
-Apart of that, I will appreciate it if you would like to branch out my project of [Negmiewan](https://github.com/Elainex0930/Negmiewan) and contribute to it! <font color=#F08080> IF ERRORS ARE FOUND, PLEASE MAIL ME OR REACH ME ON TELEGRAM, THANK YOU! </font>
+Apart of that, I will appreciate it if you would like to branch out my project of [Negmiewan](https://github.com/Elainex0930/Negmiewan) and contribute to it! **IF ERRORS ARE FOUND, PLEASE MAIL ME OR REACH ME ON TELEGRAM, THANK YOU!** 
 
 ---
 
