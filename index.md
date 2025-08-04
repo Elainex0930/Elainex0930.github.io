@@ -3,37 +3,37 @@ layout: page
 ---
 
 # About Me
+<!-- There can be a picture of mine or others -->
+<!--img src="https://caihanlin.com/caihanlin.jpg" class="floatpic"-->
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+Here is **Elaine Xing** (also [Erllane](https://erllane.kesug.com), which derives from Erlkonig by Schubert, one of best favourate of mine).<br>
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+I am a graduate student in the [Center of Mathematics](http://cam.tju.edu.cn) at Tianjin University, supervised by [*Assoc. Prof.* Yaohong Wang](https://faculty.tju.edu.cn/166056/zh_CN/index.htm) (now at [Department of Mathematics](https://math.tju.edu.cn/), Tianjin University) and [*Assoc. Prof.* Baofang Song](https://www.coe.pku.edu.cn/teaching/all_time/11927.html) (now at [College of Engineering](https://www.coe.pku.edu.cn/), Peking University). 
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
 
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+I have worked on hydrodynamic pipeflow, magnetohydrodynamics(MHD), and natural receptivity under the guidance of [*Assos. Prof.* Baofang Song](https://scholar.google.com/citations?user=0u1ZBCgAAAAJ&hl=zh-CN&oi=sra), [*Assos. Res.* Jun Hu](https://orcid.org/0000-0002-5944-5747) ([IAPCM](http://www.iapcm.ac.cn/)) and [*Prof.* Cunbiao Lee](https://orcid.org/0000-0003-1552-1346) ([PKU](https://www.coe.pku.edu.cn/teaching/all_time/7151.html)). Though worked in fluids mainly, I also keen on some fields in math especially on machine learning, computational maths, PDE theory, harmonic analysis and dynamical system.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+If you are interested in any aspect of me, I am always open to discussions and collaborations. I would like you reach out to me by 
+email (elainexing0930@gmail.com). 
 
----
-
-## Research Interests
-
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
+Apart of that, I will appreciate it if you would like to branch out my project of [Negmiewan](https://github.com/Elainex0930/Negmiewan) and contribute to it! <font color=#F08080> IF ERRORS ARE FOUND, PLEASE MAIL ME OR REACH ME ON TELEGRAM, THANK YOU! </font>
 
 ---
 
-## News and Updates
+## Research Interests (temporary)
 
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+which I worked in:
 
-<br>
+- Magnetohedrodynamics (MHD, major in stability of mixed convection flow)
+- Hydrodynamics (channel flow, pipe flow, diverging pipe)
+- Boundary layer (receptivity)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+also interested in:
+
+- Multi-phase flow
+- AI4S (AI-driven CFD)
+- Meteorology (compressive fluids)
+
+
+
 
