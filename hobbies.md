@@ -8,19 +8,19 @@ title: Hobbies
 
 I have not decided what to write in this page yet, yo dawg:)
 
-:cherry_blossom: I used to like hiking, cycling and playing music. I have a technique in about a dozen types of instruments (erhu-Chinese fiddle, guitar-fingerstyle and acoustic, piano etc.). Once upon a time, I just showed a crazy keen interest in nyckelharpa but failed in getting one... maybe I should practice the only chosen one and make my skill more professional...
+I used to like hiking, cycling and playing music. I have a technique in about a dozen types of instruments (erhu-Chinese fiddle, guitar-fingerstyle and acoustic, piano etc.). Once upon a time, I just showed a crazy keen interest in nyckelharpa but failed in getting one... maybe I should practice the only chosen one and make my skill more professional...
 
-:snowflake: I used to build my pages, but it's a pity that I had no such sufficient time for me to learn `Vue`/`React`. In a result, I made them by `WordPress` and `Jekyll`.
+I used to build my pages, but it's a pity that I had no such sufficient time for me to learn `Vue`/`React`. In a result, I made them by `WordPress` and `Jekyll`.
 
-:snowflake: When I was to collect data from webs, I wanted to learn something about web crawler, and failed in a lack of time, either.
+When I was to collect data from webs, I wanted to learn something about web crawler, and failed in a lack of time, either.
 
 To see it like a list of hobbies, it's more a list of todos... 
 
-:sunny: I'd like to grab knowlegde whenever I see it, but the power was whatever limited. I told myself, always be curious, but expertise in one term & do not be a $\frac{\mathrm{d}^3x}{\mathrm{d}t^3}$.
+I'd like to grab knowlegde whenever I see it, but the power was whatever limited. I told myself, always be curious, but expertise in only one term.
 
 I used to be trapped in a severe depression caused by gender identification disorder (`GID`), academic and emotional stress in 2023. I turned better and did plenty of works in my 2024.
 
-A total amount of about 25 days of vocation in 2024 made me better in my researchs. Maybe I need to take a full-long rest, but a fulfilled life may be more fit for me however :relieved: 
+A total amount of about 25 days of vocation in 2024 made me better in my researchs. Maybe I need to take a full-long rest, but a fulfilled life may be more fit for me however.
 
 
 
