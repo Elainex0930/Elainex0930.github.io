@@ -33,6 +33,7 @@ also interested in:
 - Biofluids
 - AI4S (AI-driven CFD)
 - Meteorology
+- Reaction flow
 
 ---
 
