@@ -8,9 +8,9 @@ title: Publications
 
 ### Journal Paper
 
-- [Instability of an Upward Mixed Convection Flow in a Vertical Heated Pipe under a Transverse Magnetic Field](https://doi.org/10.1103/twsp-czgg). <br>J. Hu, **R. Xing**, B. Song, *Physical Review Fluids*, 2025.
+- [Instability of an Upward Mixed Convection Flow in a Vertical Heated Pipe under a Transverse Magnetic Field](https://doi.org/10.1103/twsp-czgg). <br>J. Hu, **R. Xing**, B. Song. *Physical Review Fluids*, 2025. **[[PREVIEW]](https://erllane.kesug.com/docs/Instability_of_an_upward_mixed_convection_flow_in_a_vertical_heated_pipe_under_a_transverse_magnetic_field.pdf)**
 
-- Stability and Effects of Thin-Wall Conductivity on Mixed Convection of Liquid Metal in a Horizontal pipe. <br> **R. Xing**, G. Chu, B. Song, Y. Wang. (*Journal of Fluid Mechanics*, **major revision**, 2025)
+- [Stability of liquid metal mixed convection in a horizontal pipe under a strong magnetic field and the effects of wall conductivity](https://doi.org/10.1017/jfm.2026.11641). <br> **R. Xing**, G. Chu, B. Song, Y. Wang. *Journal of Fluid Mechanics*, 2026 **[[PREVIEW]](https://erllane.kesug.com/docs/Stability_of_liquid_metal_mixed_convection_in_a_horizontal_pipe_under_a_strong_magnetic_field-_and_the_effects_of_wall_conductivity.pdf.pdf)**
 
 
 

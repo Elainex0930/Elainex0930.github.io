@@ -15,9 +15,9 @@ I have worked on hydrodynamic pipeflow, magnetohydrodynamics(MHD), and natural r
 If you are interested in any aspect of me, I am always open to discussions and collaborations. I would like you reach out to me by 
 email (elainexing0930@gmail.com). 
 
-Apart from that, I will appreciate it if you would like to branch out my project of [Negmiewan](https://github.com/Elainex0930/Negmiewan) and contribute to it! **IF ERRORS ARE FOUND, PLEASE MAIL ME OR REACH ME ON TELEGRAM, THANK YOU!** 
+Apart from that, I will appreciate it if you would like to branch out my project of [`Negmiewan`](https://github.com/Elainex0930/Negmiewan) and contribute to it! **IF ERRORS ARE FOUND, PLEASE MAIL ME OR REACH ME ON TELEGRAM, THANK YOU!** 
 
-**[This](http://elainexaca.sylvicia.site)** <span style="color:#dea5a4">is my research and project network schema which also records information about my advisors and collaborators. It is implemented using `d3.js`, with the data component realised through `neo4j`. Within this three-dimensional force-directed layout, you may access nodes to view all relevant information.</span>
+<span style="color:#dea5a4">**[This](http://elainexaca.sylvicia.site)** </span>is my research and project network schema which also records information about my advisors and collaborators. It is implemented using `d3.js`, with the data component realised through `neo4j`. Within this three-dimensional force-directed layout, you may access nodes to view all relevant information.
 
 ---
 
